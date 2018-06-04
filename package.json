@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/ipfs/js-ipfs-block-service#readme",
   "devDependencies": {
-    "aegir": "^13.1.0",
+    "aegir": "^14.0.0",
     "async": "^2.6.1",
     "chai": "^4.1.2",
     "cids": "~0.5.3",
